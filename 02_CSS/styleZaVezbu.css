@@ -1,0 +1,38 @@
+h1 {
+	color: red;
+}
+h2 {
+	color: blue;
+}
+p {
+	color: rgb(0, 255, 234);
+}
+img {
+	width: 400px;
+	height: 300px; 
+}
+a {
+	color: purple;
+}
+
+body{
+	background-color: yellow;
+	color:rgb(7, 27, 26);
+	font-size: 20px;
+}
+.klasa1 {
+	text-align:  center;
+}
+.klasa2 {
+	text-align:  right;
+	font-size: 24px;
+}
+img {
+    outline-style: dotted;
+	outline-width: 2px;
+      color: red;
+      }
+h3 {
+	text-align:  center;
+	color: rgb(0, 255, 76);
+	  }
