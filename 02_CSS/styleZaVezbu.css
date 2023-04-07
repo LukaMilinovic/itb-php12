@@ -11,7 +11,7 @@ img {
 	width: 400px;
 	height: 300px; 
 }
-a {
+a:link{
 	color: purple;
 }
 
@@ -31,8 +31,15 @@ img {
     outline-style: dotted;
 	outline-width: 2px;
       color: red;
-      }
+}
 h3 {
 	text-align:  center;
 	color: rgb(0, 255, 76);
-	  }
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:visited {
+	color:rgb(43, 255, 0);
+}
+a:hover {
+	color: yellow
+}
